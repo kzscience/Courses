@@ -1,2 +1,2 @@
 # Lessons
-My course assignments are stored here
+My course assignments
