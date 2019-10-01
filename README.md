@@ -1,2 +1,2 @@
-# Lessons
+# Courses
 My course assignments
