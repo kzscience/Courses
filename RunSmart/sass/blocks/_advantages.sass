@@ -23,6 +23,16 @@
 		color: #0d0d0d
 		font-size: 14px
 		font-weight: 500
-	a
-		color: #ff0000
-		text-decoration: underline
+		a
+			color: #ff0000
+			text-decoration: underline
+	&__icon
+		&_animated
+			animation: hearbeat 1.5s ease infinite
+			/*
+			animation-name: hearbeat
+			animation-duration:	1.5s
+			animation-timing-function: ease
+			animation-iteration-count: infinite */
+			&:hover
+				animation-play-state: paused
