@@ -1,2 +1,1 @@
-# Courses
-My course assignments
+# My test projects
